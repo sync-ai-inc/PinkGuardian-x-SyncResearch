@@ -103,7 +103,11 @@ For research collaboration inquiries, please contact:
 - Tushar Sinha
 
 ## 📃 License
-[License information to be added]
+Copyright © 2024 Sync AI Inc. All rights reserved.
+
+---
+
+
 
 ---
 *Note*: This repository contains the enhanced version of Pink Guardian, developed in collaboration with Sync AI Inc.. For the original version, please visit [the original Pink Guardian repository](https://github.com/kanchanmaurya95/PinkGuardian.git).
